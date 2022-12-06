@@ -10,8 +10,7 @@
   ## Usage 
   In order to use Book Search, please refer to the following steps for instructions 
 
-  https://user-images.githubusercontent.com/106570615/205837654-90c53929-6fa6-48b9-83a3-55d23532b6bf.png
-  https://user-images.githubusercontent.com/106570615/205837693-34e28d6f-e92b-4b69-8654-460d59acb00e.png
+  ![Screenshot 2022-12-05 at 10 32 49 PM](https://user-images.githubusercontent.com/106570615/205838440-b07d7f5c-6dd2-418c-b790-f0315bcf0cd4.png)
   
   Step 1. Go to https://alexusdc.github.io/Book-search/
   Step 2: Type in key words for new book recommendations, or type in a book name that you'd like to view.
